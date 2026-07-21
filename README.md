@@ -23,14 +23,6 @@ The game includes a scoring system, limited attempts, randomized question orderi
 - Case-insensitive answer checking
 - Supports answers containing spaces and special characters
 
-## 🎮 Game Menu
-
-The program provides three main options:
-
-1. New Game
-2. View History
-3. Quit
-
 ## 🛠️ Tech Stack
 
 - Haskell
@@ -39,6 +31,13 @@ The program provides three main options:
 - Console-based user interface
 - Text-file data persistence
 
+## 🎮 Game Menu
+
+The program provides three main options:
+
+1. New Game
+2. View History
+3. Quit
 ## 📁 Project Structure
 
 ```text
